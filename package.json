@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abhay Aggarwal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
