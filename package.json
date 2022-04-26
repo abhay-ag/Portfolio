@@ -4,7 +4,8 @@
   "description": "Abhay's Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "tailwind -i src/style.css -o public/style.css --watch --minify"
   },
   "author": "Abhay Aggarwal",
   "license": "ISC",
